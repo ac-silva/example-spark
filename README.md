@@ -1,1 +1,1 @@
-# exemple-spark
+# example-spark
